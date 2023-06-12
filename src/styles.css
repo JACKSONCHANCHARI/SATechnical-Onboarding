@@ -1,6 +1,7 @@
 /**
 * CSS file to hold styles that apply across the application
-*/
+*/ 
+
 
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400&family=Montserrat:wght@200;400;600;800&display=swap");
 
@@ -12,6 +13,9 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  html {
+    scroll-behavior: smooth;
+  }                                                                                                         
 }
 
 div#main {
@@ -122,4 +126,15 @@ a:hover {
 img.socialIcon {
   height: 30px;
   width: 30px;
+
+}
+/* add a slide in animation */  .slide-in {
+  animation: "1s ease-out 0s 1 slideIn";
+}  @keyframes slideInRight {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
 }
