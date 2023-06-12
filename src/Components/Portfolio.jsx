@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/Tres.jpg";
+import image from "../images/Segundo.jpg";
 
-const imageAltText = "Business discussion";
+const imageAltText = "Power of Power BI";
 
 /**
  * Project list
