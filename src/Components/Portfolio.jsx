@@ -31,28 +31,28 @@ const imageAltText = "Business discussion";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "What is Power BI?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "If you're interested in POWER BI, you need to check this video, if you're a begginer you need to watch it.",
+    url: "https://youtu.be/yKTSLffVGbk",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Introduction to Power BI (0-1)",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Learn more about POWER BI. This video is about the Analyzing and Visualizing Data with POWER BI ",
+    url: "https://youtu.be/1c01r_pAZdk",
   },
   {
-    title: "My Resume Site",
+    title: "Getting Started with the Power BI Desktop",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In this video, learn how to get started with the POWER BI Desktop application.",
+    url: "https://youtu.be/PXqFXG4rzXE",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Introducción a la compilación con Power BI ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Aprende a mi ritmo. Este módulo te ayudará a entender cómo crear informes y publicarlas en el servicio de POWER BI",
+    url: "https://learn.microsoft.com/training/modules/get-started-with-power-bi?wt.mc_id=studentamb_246397",
   },
 ];
 
