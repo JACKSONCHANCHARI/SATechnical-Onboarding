@@ -24,7 +24,7 @@ const imageAltText = "Human Being Brain Power";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  " I'm a student, I'm studying Business Administartion at the University. I love my degree, but I want more. I like learning about different things not only about Business but about everything. ";
+  " I'm a student, I'm studying Business Administration at the University. I love my degree, but I want more. I like learning about different things not only about Business but about everything. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
