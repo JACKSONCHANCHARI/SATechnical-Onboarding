@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/Dos.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Human Being Brain Power";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  " I'm a student, I'm studying Business Administartion at the University. I love my degree, but I want more. I like learning about different things not only about Business but about everything. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Currently, I'm studying Business Administration, and I'm a Microsoft Learn Student Ambassador too. I like to learn about technology and I share my knowledges with my friends and family. In fact, I'm really interested in Power BI, I'm learning a lot about it, I believe working with the data is my passion now. Funny facts: I like dancing, singing, writing and learning different things.";
 
 const About = () => {
   return (
