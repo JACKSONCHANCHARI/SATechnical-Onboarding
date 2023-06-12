@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/Tres.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Business discussion";
 
 /**
  * Project list
