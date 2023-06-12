@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/Segundo.jpg";
+import image from "../images/First.jpg";
 
 const imageAltText = "Power of Power BI";
 
